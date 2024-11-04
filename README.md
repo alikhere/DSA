@@ -1,4 +1,4 @@
-# DSA Solutions Repository
+# DSA Solutions
 
 This repository contains my solutions to various Data Structures and Algorithms (DSA) problems that I've tackled on [LeetCode](https://leetcode.com/u/alikhere/). Each solution includes efficient, well-commented code along with explanations for key concepts used in the solutions.
 
