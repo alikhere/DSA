@@ -6,7 +6,7 @@ public:
         int count = 0;
         int ptr1 = 0; // pointer for s//
         int ptr2 = 0; // pointer for g
-        while(ptr1<s.size() && ptr2<g.size()){
+        while(ptr1<s.size() && ptr2<g.size()){//
             if(s[ptr1]>=g[ptr2]){
                 count++;
                 ptr1++; ptr2++;
