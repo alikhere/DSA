@@ -1,4 +1,4 @@
-class Solution {
+class Solution {//
 public:
     bool checkValidString(string s) {
         stack<int> s1; //it  store inx of open (
