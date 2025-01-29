@@ -1,4 +1,4 @@
-class Solution {
+class Solution {//
 public:
     int t[10001];
     bool solve(vector<int>& nums, int idx, int n) {
