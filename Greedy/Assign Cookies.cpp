@@ -2,7 +2,7 @@ class Solution {
 public:
     int findContentChildren(vector<int>& g, vector<int>& s) {
          sort(s.begin(), s.end());n
-        sort(g.begin(), g.end());
+        sort(g.begin(), g.end());/
         int count = 0;
         int ptr1 = 0; // pointer for s//
         int ptr2 = 0; // pointer for g
