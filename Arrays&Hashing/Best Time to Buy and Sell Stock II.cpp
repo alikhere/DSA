@@ -2,7 +2,7 @@ class Solution {
 public:
     int maxProfit(vector<int>& prices) {
         
-        // It is impossible to sell stock on first day, set -infinity as initial value for curHold
+        
         int curHold = INT_MIN, curNotHold = 0;
         
         for( const int stockPrice : prices ){
