@@ -17,7 +17,7 @@ public:
     }
     
     bool contains(int key) {
-        if(arr.count(key) > 0)
+        if(arr.count(key) >= 1)
             return true;
         else return false;
         
