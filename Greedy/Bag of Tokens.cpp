@@ -10,7 +10,7 @@ public:
         int score = 0;
         while(i <= j) {
             if(power >= tokens[i]) { // power gava ke score badha lo.
-                power-=tokens[i];
+                power = power - tokens[i];
                 score++;
                 i++;
                 maxScore = max(maxScore,score);
