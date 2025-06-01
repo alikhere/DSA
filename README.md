@@ -7,8 +7,5 @@ This repository contains my solutions to various Data Structures and Algorithms 
 - Solutions are written in Python (or specify the language if different).
 - Each solution includes test cases to verify correctness.
 
-## About
-This repository serves as a place to store my DSA problem solutions and to track my problem-solving progress on LeetCode.
-
 ## Connect
 Feel free to check out my [LeetCode profile](https://leetcode.com/u/alikhere/) to see my full list of solved problems.
