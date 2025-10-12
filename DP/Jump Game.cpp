@@ -1,6 +1,7 @@
 class Solution {//
 public:
     int t[10001];
+    int b;
     bool solve(vector<int>& nums, int idx, int n) {
         if(idx >= n-1)
             return true;
