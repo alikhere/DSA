@@ -5,8 +5,9 @@ public:
         if(i == word1.size())
             return word2.size() - j;
 
-        if(j == word2.size())
+        if(j == word2.size()) {
             return word1.size() - i;
+        }
         
         if(t[i][j] != -1)
             return t[i][j];
