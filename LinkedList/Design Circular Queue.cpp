@@ -1,7 +1,7 @@
 class MyCircularQueue {
 private:
     vector<int> v;
-    int start = 0, len = 0;
+    int start, len = 0;
 public:
     MyCircularQueue(int k): v(k) {}
     bool enQueue(int value) {
