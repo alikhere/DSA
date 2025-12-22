@@ -6,6 +6,7 @@ public:
         int carry = 0;
         int sum = 0;
         int value;
+        
         ListNode *head = NULL;
         ListNode *prev = NULL;
 
