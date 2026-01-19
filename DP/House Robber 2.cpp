@@ -26,7 +26,7 @@ public:
 
         memset(t,-1,sizeof(t));
         int b = solve(1,nums,n);
-        return max(a,b);
+        return max(a,b)
  
     }
 };
